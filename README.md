@@ -16,7 +16,7 @@ Proyek ini bertujuan untuk mengumpulkan dan melakukan klasifikasi komentar publi
 ## 📂 Struktur Direktori
 
 ```
-SCRAPING DATA/
+indonesian-flood-text-mining/
 │
 ├── Output/
 │   ├── Comment_YT_Banjir.csv         # Hasil scraping YouTube
